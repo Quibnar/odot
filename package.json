@@ -1,0 +1,19 @@
+{
+  "name": "odot",
+  "version": "1.0.0",
+  "description": "ODOT is a node module which creates browser virtual machines. These virtual APIs empower web devolopers to work \"On the Metal\" from a js environment. The tool is designed to exploite CPU heaping and GPU samultanius and recursive calculations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quibnar/odot.git"
+  },
+  "author": "Dirk Stockton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quibnar/odot/issues"
+  },
+  "homepage": "https://github.com/Quibnar/odot#readme"
+}
